@@ -1,0 +1,7 @@
+C:\git\geekbrain\Lesson2\Lesson2-4\Lesson2-4\bin\Debug\Lesson2-4.exe.config
+C:\git\geekbrain\Lesson2\Lesson2-4\Lesson2-4\bin\Debug\Lesson2-4.exe
+C:\git\geekbrain\Lesson2\Lesson2-4\Lesson2-4\bin\Debug\Lesson2-4.pdb
+C:\git\geekbrain\Lesson2\Lesson2-4\Lesson2-4\obj\Debug\Lesson2-4.csprojAssemblyReference.cache
+C:\git\geekbrain\Lesson2\Lesson2-4\Lesson2-4\obj\Debug\Lesson2-4.csproj.CoreCompileInputs.cache
+C:\git\geekbrain\Lesson2\Lesson2-4\Lesson2-4\obj\Debug\Lesson2-4.exe
+C:\git\geekbrain\Lesson2\Lesson2-4\Lesson2-4\obj\Debug\Lesson2-4.pdb
